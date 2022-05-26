@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\liorm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\liorm\\.nuget\\packages"
+    ]
+  }
+}

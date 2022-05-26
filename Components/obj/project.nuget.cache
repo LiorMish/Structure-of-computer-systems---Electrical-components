@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQ9XRHsx8vH1/92UK2SfoqSFvmmhw42I8MUqUkxQHyx3TggJ75DqNPWiRBbg/o6j5Q45NTLTf6mD4fRA0b6E7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liorm\\Desktop\\BGU\\הנדסת מערכות מידע\\שנה ב\\סמסטר א\\מבנה מערכות מחשב\\Components\\Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liorm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\liorm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\liorm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\liorm\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
